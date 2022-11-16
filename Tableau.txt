@@ -1,0 +1,8 @@
+https://public.tableau.com/app/profile/pablo8343/viz/LabTableau_16686166126540/Historia1?publish=yes
+
+- En el primer grafico analizamos la distribucion por paises de los consumidores de los productos de la empresa.
+- En el segundo gráfico obtenemos el consumidor con la compra mas cuantiosa, y el consumidor con el volumen de compras total mas elevado.
+- En el tercer gráfico obtenemos el volumen de ventas trimestrales de cada clase de producto por linea de producto.
+- En el cuarto gráfico tenemos la relacion entre el volumen de pedidos de cada empleado y el beneficio total obtenido .
+- En el cuarto gráfico tenemos la relacion entre el volumen de pedidos de cada empleado, conociendo nombre y apelleido,
+y el beneficio total obtenido dividido por oficina.
