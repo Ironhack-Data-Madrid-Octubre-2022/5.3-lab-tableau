@@ -1,0 +1,9 @@
+link a Tableau Public - [5.3-lab-tableau] David Tejedor:
+https://public.tableau.com/app/profile/david.tejedor/viz/5_3-lab-tableauDavidTejedor/Historia1?publish=yes
+
+1. La inmensa mayoría de los Clientes son de USA
+2. Top 10 Clientes - Los 2 mejores Clientes superan muy significativamente al resto en importe total de pedidos.
+3. Líneas de negocio/año - Los coches (tanto Clasic como Vintage) son las líneas de negocio que más importe generan.
+En 2004 se ve un incremento de negocio en cada línea frente a 2003, pero en 2005 se reduce.
+4. La oficina que más produce es la de París, sin embargo no es la que más empleados tiene. 
+5. Se aprecian los empleados que más pedidos han vendido (tamaño del círculo) y el importe total facturado por cada uno (intensidad de color)
